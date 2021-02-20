@@ -1,0 +1,29 @@
+body{
+	padding-top:70px;
+}
+.row.flex{
+	display: inline-block;
+	width:100%;
+}
+
+.image{
+	width:100%;
+	height: 25px;
+	background-size: cover;
+    background-position: center center;
+}
+
+.jumbotron{
+	background: #ecf0f1;
+	color: #2c3e50;
+}
+.navbar-inverse{
+	background:#2c3e50;
+}
+.navbar-inverse .navbar-nav > li > a{
+	color:white;
+	font-weight: bold;
+}
+.navbar-inverse .navbar-brand{
+	color:white;
+}
